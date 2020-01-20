@@ -1,0 +1,3 @@
+# ignorar entorno virtual de python y configuración de vscode
+env
+.vscode
